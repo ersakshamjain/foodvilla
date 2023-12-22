@@ -1,0 +1,59 @@
+/* Normal native CSS
+SCSS and SASS
+inline CSS
+Component Libraries- Material Ui, Base UI, Ant Desgin, Chakra
+style component
+Tailwind CSS Framework]
+   - CSS on the go (in the same file)
+   -Resusability
+   -Less bunddle size
+   -Flexible UI (Customization)
+
+*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px ;
+    border: 1px solid black;
+}
+
+.nav-items > ul{
+    list-style-type: none;
+    display: flex;
+
+}
+
+.nav-items > ul > li{
+    padding:10px;
+}
+
+.logo{
+    width: 100px;
+}
+
+
+.card{
+    width: 200px;
+    border: 1px solid rgb(188, 186, 186);
+    padding: 10px;
+    margin: 10px;
+}
+
+.card > img{
+    border-radius: 15px;
+    width: 100%;
+    height: 180px;
+}
+
+.resturant-list{
+    display: flex;
+    flex-wrap:wrap;
+}
+ */
